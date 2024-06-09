@@ -1,0 +1,9 @@
+https://dimitri.codes/spring-boot-htmx-intro/
+    Article presents how one would handle CSRF tokens when using Spring Security, because otherwise
+    the POST,DELETE,PUT operations will not work.
+
+    Solution is to use js code from htmx-csrf.js and the meta tags from index.html
+
+TODO
+    Go through the examples here to see more usecases
+        https://htmx.org/examples/
